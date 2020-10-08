@@ -1,0 +1,25 @@
+2020-10-08 11:35:31,408 WARN  [SoapUI] Missing folder [C:\Users\USER\Desktop\Project 1\my-demo\ext] for external libraries
+2020-10-08 11:35:31,729 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\USER\soapui-settings.xml]
+2020-10-08 11:35:33,368 INFO  [WsdlProject] Loaded project from [file:/C:/Users/USER/Desktop/Project%201/my-demo/Web-Services-Demo-soapui-project.xml]
+2020-10-08 11:35:33,901 INFO  [SoapUITestCaseRunner] Running SoapUI tests in project [Web Services Demo]
+2020-10-08 11:35:33,903 INFO  [SoapUITestCaseRunner] Running Project [Web Services Demo], runType = SEQUENTIAL
+2020-10-08 11:35:33,934 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [Traditional Login and Logout]
+2020-10-08 11:35:33,946 INFO  [SoapUITestCaseRunner] running step [login TestCase]
+2020-10-08 11:35:34,574 INFO  [SchemaUtils] Added default schema from file:/C:/Users/USER/.m2/repository/com/smartbear/soapui/soapui/5.0.0/soapui-5.0.0.jar!/com/eviware/soapui/resources/xsds/xop.xsd with targetNamespace http://www.w3.org/2004/08/xop/include
+2020-10-08 11:35:34,648 INFO  [SchemaUtils] Added default schema from file:/C:/Users/USER/.m2/repository/com/smartbear/soapui/soapui/5.0.0/soapui-5.0.0.jar!/com/eviware/soapui/resources/xsds/XMLSchema.xsd with targetNamespace http://www.w3.org/2001/XMLSchema
+2020-10-08 11:35:34,708 INFO  [SchemaUtils] Added default schema from file:/C:/Users/USER/.m2/repository/com/smartbear/soapui/soapui/5.0.0/soapui-5.0.0.jar!/com/eviware/soapui/resources/xsds/xml.xsd with targetNamespace http://www.w3.org/XML/1998/namespace
+2020-10-08 11:35:34,725 INFO  [SchemaUtils] Added default schema from file:/C:/Users/USER/.m2/repository/com/smartbear/soapui/soapui/5.0.0/soapui-5.0.0.jar!/com/eviware/soapui/resources/xsds/swaref.xsd with targetNamespace http://ws-i.org/profiles/basic/1.1/xsd
+2020-10-08 11:35:34,729 INFO  [SchemaUtils] Added default schema from file:/C:/Users/USER/.m2/repository/com/smartbear/soapui/soapui/5.0.0/soapui-5.0.0.jar!/com/eviware/soapui/resources/xsds/xmime200505.xsd with targetNamespace http://www.w3.org/2005/05/xmlmime
+2020-10-08 11:35:34,735 INFO  [SchemaUtils] Added default schema from file:/C:/Users/USER/.m2/repository/com/smartbear/soapui/soapui/5.0.0/soapui-5.0.0.jar!/com/eviware/soapui/resources/xsds/xmime200411.xsd with targetNamespace http://www.w3.org/2004/11/xmlmime
+2020-10-08 11:35:34,741 INFO  [SchemaUtils] Added default schema from file:/C:/Users/USER/.m2/repository/com/smartbear/soapui/soapui/5.0.0/soapui-5.0.0.jar!/com/eviware/soapui/resources/xsds/soapEnvelope.xsd with targetNamespace http://schemas.xmlsoap.org/soap/envelope/
+2020-10-08 11:35:34,751 INFO  [SchemaUtils] Added default schema from file:/C:/Users/USER/.m2/repository/com/smartbear/soapui/soapui/5.0.0/soapui-5.0.0.jar!/com/eviware/soapui/resources/xsds/soapEncoding.xsd with targetNamespace http://schemas.xmlsoap.org/soap/encoding/
+2020-10-08 11:35:34,758 INFO  [SchemaUtils] Added default schema from file:/C:/Users/USER/.m2/repository/com/smartbear/soapui/soapui/5.0.0/soapui-5.0.0.jar!/com/eviware/soapui/resources/xsds/soapEnvelope12.xsd with targetNamespace http://www.w3.org/2003/05/soap-envelope
+2020-10-08 11:35:34,767 INFO  [SchemaUtils] Added default schema from file:/C:/Users/USER/.m2/repository/com/smartbear/soapui/soapui/5.0.0/soapui-5.0.0.jar!/com/eviware/soapui/resources/xsds/soapEncoding12.xsd with targetNamespace http://www.w3.org/2003/05/soap-encoding
+2020-10-08 11:35:34,774 INFO  [SchemaUtils] Loading schema types from [file:\C:\Users\USER\Downloads\ShoppingService.wsdl]
+2020-10-08 11:35:34,775 INFO  [SchemaUtils] Getting schema file:\C:\Users\USER\Downloads\ShoppingService.wsdl
+2020-10-08 11:35:34,806 INFO  [SchemaUtils] Getting schema file:\C:\Users\USER\Downloads\ShoppingService.xsd
+2020-10-08 11:35:35,252 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-10-08 11:35:35,255 INFO  [SoapUITestCaseRunner] Assertion [Schema Compliance] has status VALID
+2020-10-08 11:35:35,256 INFO  [SoapUITestCaseRunner] Assertion [Not SOAP Fault] has status VALID
+2020-10-08 11:35:35,264 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [Traditional Login and Logout], time taken: 1298ms, status: FINISHED
+2020-10-08 11:35:35,266 INFO  [SoapUITestCaseRunner] Project [Web Services Demo] finished with status [FINISHED] in 1359ms
